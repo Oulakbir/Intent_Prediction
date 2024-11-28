@@ -9,6 +9,11 @@ Avant de commencer, vous devez installer les éléments suivants sur votre machi
 - **Streamlit** (pour l'interface utilisateur)
 - **Uvicorn** (pour lancer FastAPI)
 - **Requests** (pour effectuer des requêtes HTTP)
+- 
+##  Run the Notebook
+
+First of all you have to run the notebook some the folder "saved_model" will be created in your current directory and which will be used to run your application. 
+If the folder is generated you can proceed with the remaining steps to lounch the application.
 
 ## Étapes pour démarrer l'application
 
@@ -45,3 +50,8 @@ Avant de commencer, vous devez installer les éléments suivants sur votre machi
    ```
    http://localhost:8501
    ```
+
+   Here is How the applicatio looks like:
+   
+   ![Screenshot 2024-11-28 192442](https://github.com/user-attachments/assets/71f0eff8-0a36-4fe8-af07-311f3098cc5a)
+
