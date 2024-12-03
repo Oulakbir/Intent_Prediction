@@ -5,14 +5,15 @@
 Avant de commencer, vous devez installer les éléments suivants sur votre machine :
 
 - **Python 3.7+**
-- **FastAPI** (pour l'API de prédiction)
-- **Streamlit** (pour l'interface utilisateur)
-- **Uvicorn** (pour lancer FastAPI)
-- **Requests** (pour effectuer des requêtes HTTP)
+- **FastAPI** (try last versions)
+- **Streamlit**  
+- **Uvicorn** (should be installed to run FastAPI)
+- **Requests**  
 - 
-##  Run the Notebook
+##  Executez le Notebook
 
-First of all you have to run the notebook some the folder "saved_model" will be created in your current directory and which will be used to run your application. 
+Tout d'abord, vous devez lancer le notebook. Le dossier « saved_model » sera créé dans votre répertoire courant et sera utilisé pour exécuter votre application.
+
 If the folder is generated you can proceed with the remaining steps to lounch the application.
 
 ## Étapes pour démarrer l'application
